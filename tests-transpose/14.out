@@ -1,0 +1,12 @@
+Enter the number of rows: Enter the number of columns: Enter 7 values for row 0 (space separated): 
+Matrix:
+-203 -144 -204 -37 -111 240 17 
+
+Transpose:
+-203 
+-144 
+-204 
+-37 
+-111 
+240 
+17 

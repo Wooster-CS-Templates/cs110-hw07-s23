@@ -1,0 +1,1 @@
+cat tests-blur/16.in | ./blur

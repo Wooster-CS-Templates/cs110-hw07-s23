@@ -1,0 +1,6 @@
+Enter image height: Enter image width: Enter 7 pixel values for row 0 (space separated): Enter 7 pixel values for row 1 (space separated): Enter 7 pixel values for row 2 (space separated): Enter 7 pixel values for row 3 (space separated): 
+Blurred Image
+175 177 126 101 80 129 156 
+146 147 119 101 90 106 126 
+94 127 124 143 102 91 82 
+66 99 125 150 125 87 77 

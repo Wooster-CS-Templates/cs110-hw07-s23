@@ -1,0 +1,21 @@
+Enter the number of rows: Enter the number of columns: Enter 10 values for row 0 (space separated): Enter 10 values for row 1 (space separated): Enter 10 values for row 2 (space separated): Enter 10 values for row 3 (space separated): Enter 10 values for row 4 (space separated): Enter 10 values for row 5 (space separated): Enter 10 values for row 6 (space separated): 
+Matrix:
+89 -184 44 -77 123 -39 21 -51 -247 -145 
+-68 127 236 -7 -21 63 -137 -158 -125 -220 
+-75 53 -191 229 249 11 26 -3 -253 -74 
+-45 166 176 -148 221 -134 159 -17 222 50 
+127 -162 -66 -94 108 77 -89 80 239 -10 
+72 114 7 105 68 206 -79 -139 249 82 
+-12 101 -220 33 87 -63 120 86 -128 -157 
+
+Transpose:
+89 -68 -75 -45 127 72 -12 
+-184 127 53 166 -162 114 101 
+44 236 -191 176 -66 7 -220 
+-77 -7 229 -148 -94 105 33 
+123 -21 249 221 108 68 87 
+-39 63 11 -134 77 206 -63 
+21 -137 26 159 -89 -79 120 
+-51 -158 -3 -17 80 -139 86 
+-247 -125 -253 222 239 249 -128 
+-145 -220 -74 50 -10 82 -157 

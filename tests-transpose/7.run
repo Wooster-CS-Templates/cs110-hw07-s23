@@ -1,0 +1,1 @@
+cat tests-transpose/7.in | ./transpose

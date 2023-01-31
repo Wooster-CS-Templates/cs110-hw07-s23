@@ -1,0 +1,15 @@
+Enter the number of rows: Enter the number of columns: Enter 1 values for row 0 (space separated): Enter 1 values for row 1 (space separated): Enter 1 values for row 2 (space separated): Enter 1 values for row 3 (space separated): Enter 1 values for row 4 (space separated): Enter 1 values for row 5 (space separated): Enter 1 values for row 6 (space separated): Enter 1 values for row 7 (space separated): Enter 1 values for row 8 (space separated): Enter 1 values for row 9 (space separated): 
+Matrix:
+37 
+-237 
+63 
+-81 
+205 
+152 
+217 
+-2 
+-228 
+245 
+
+Transpose:
+37 -237 63 -81 205 152 217 -2 -228 245 

@@ -1,0 +1,15 @@
+Enter the number of rows: Enter the number of columns: Enter 10 values for row 0 (space separated): 
+Matrix:
+-76 132 164 94 97 47 -147 -173 -206 -171 
+
+Transpose:
+-76 
+132 
+164 
+94 
+97 
+47 
+-147 
+-173 
+-206 
+-171 

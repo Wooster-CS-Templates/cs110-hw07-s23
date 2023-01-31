@@ -1,0 +1,16 @@
+check program with input:
+7 4
+128 132 -77 -23 
+195 180 46 92 
+-182 155 250 -240 
+164 104 188 36 
+102 8 -58 163 
+-154 77 -171 133 
+27 -157 -181 217 
+
+NOTE: Don't worry about the odd formatting in the tests.
+This is a byproduct of the automated tests not actually
+requiring input via the keyboard. Normally, the text we
+type would appear in termal. You can run the same command
+found in the .run files and you will see exactly what the
+testing program will receive as output.

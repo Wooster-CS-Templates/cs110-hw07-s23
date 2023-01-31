@@ -1,0 +1,9 @@
+Enter the number of rows: Enter the number of columns: Enter 1 values for row 0 (space separated): Enter 1 values for row 1 (space separated): Enter 1 values for row 2 (space separated): Enter 1 values for row 3 (space separated): 
+Matrix:
+150 
+103 
+235 
+-202 
+
+Transpose:
+150 103 235 -202 

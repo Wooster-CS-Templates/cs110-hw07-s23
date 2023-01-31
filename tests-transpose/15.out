@@ -1,0 +1,9 @@
+Enter the number of rows: Enter the number of columns: Enter 4 values for row 0 (space separated): 
+Matrix:
+233 -24 -254 154 
+
+Transpose:
+233 
+-24 
+-254 
+154 

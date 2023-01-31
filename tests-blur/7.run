@@ -1,0 +1,1 @@
+cat tests-blur/7.in | ./blur

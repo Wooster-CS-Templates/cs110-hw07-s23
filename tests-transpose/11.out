@@ -1,0 +1,12 @@
+Enter the number of rows: Enter the number of columns: Enter 4 values for row 0 (space separated): Enter 4 values for row 1 (space separated): Enter 4 values for row 2 (space separated): Enter 4 values for row 3 (space separated): 
+Matrix:
+218 -106 195 -119 
+-23 -228 149 65 
+-113 -18 -168 19 
+-131 -220 166 29 
+
+Transpose:
+218 -23 -113 -131 
+-106 -228 -18 -220 
+195 149 -168 166 
+-119 65 19 29 
